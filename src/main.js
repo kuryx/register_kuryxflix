@@ -1,0 +1,1 @@
+import './app/singupform.js'
